@@ -15,4 +15,4 @@ test:
 failure:
   email:
     committer: true
-    cc: ["wouter.adem@gmail.com"]
+    cc: ["wouteradem@hotmail.com"]
