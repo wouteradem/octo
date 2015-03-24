@@ -34,7 +34,7 @@
         "block8/b8framework": "dev-master",
         "symfony/console": "2.*",
         "phpmailer/phpmailer": "5.2.*",
-				"behat/behat": "3.0.*@dev"
+		    "behat/behat": "2.4.*@stable"
     },
 
     "autoload": {
