@@ -10,8 +10,6 @@ build_settings:
         - "bootstrap.php"
 
 test:
-  php_mess_detector:
-    allowed_warnings: 0
 
 failure:
     email:
