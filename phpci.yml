@@ -8,6 +8,9 @@ build_settings:
     - "Octo/Public/assets"
     - "Octo/Database/Migrations"
     - "bootstrap.php"
+setup:
+  composer:
+    action: "install"
 
 test:
   behat:
