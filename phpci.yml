@@ -10,7 +10,6 @@ build_settings:
         - "bootstrap.php"
 
 test:
-		behat:
 		
 failure:
     email:
