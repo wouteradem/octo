@@ -12,7 +12,6 @@ build_settings:
 test:
   php_mess_detector:
     allowed_warnings: 0
-  behat:
 
 failure:
     email:
