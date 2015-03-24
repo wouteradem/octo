@@ -1,5 +1,5 @@
 # Octo - Content Management System
-[![Build Status](http://ec2-52-10-26-150.us-west-2.compute.amazonaws.com/build-status/image/1)](test)
+[![Build Status](http://ec2-52-10-26-150.us-west-2.compute.amazonaws.com/build-status/image/1)]
 
 ## Using Octo for a new site
 You can find a working example site in the [Octo Skeleton](https://github.com/Block8/Octo-Skeleton) project.
