@@ -8,9 +8,6 @@ build_settings:
         - "Octo/Public/assets"
         - "Octo/Database/Migrations"
         - "bootstrap.php"
-
-test:
-		
 failure:
     email:
         committer: true
