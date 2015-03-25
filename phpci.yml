@@ -15,7 +15,7 @@ setup:
 test:
   behat:
   drush:
-    features: --version
+    features: brun
 
 failure:
   email:
